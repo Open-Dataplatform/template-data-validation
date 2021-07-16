@@ -3,13 +3,7 @@ The purpose of this code is to easily validate data between the source and desti
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-  - [Logging](#logging)
-- [Development](#development)
-  - [Running locally](#running-locally)
-  - [tox](#tox)
-  - [Commands](#commands)
-    - [Linting](#linting)
-    - [Tests](#tests)
+- [Usage](#usage)
   
 ## Introduction
 
